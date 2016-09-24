@@ -1,0 +1,26 @@
+{
+  "name": "bankotsar",
+  "version": "1.0.0",
+  "description": "Scraper for bank otsar ahayal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitWolfus/bankotsar.git"
+  },
+  "keywords": [
+    "bankotsar"
+  ],
+  "author": "Amit Wolfus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitWolfus/bankotsar/issues"
+  },
+  "homepage": "https://github.com/AmitWolfus/bankotsar#readme",
+  "dependencies": {
+    "horseman": "^0.2.1",
+    "phantomjs": "^2.1.7"
+  }
+}
